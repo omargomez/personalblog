@@ -1,0 +1,17 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+
+DefaultContentLanguage = "es"
+defaultContentLanguageInSubdir = false
+
+theme = "hugo-theme-bootstrap4-blog"
+
+[languages]
+
+[languages.en]
+title = "My blog"
+weight = 1
+
+[languages.es]
+title = "Mi blog"
+weight = 2
